@@ -1,0 +1,10 @@
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\bin\Debug\MiAI.exe.config
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\bin\Debug\MiAI.exe
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\bin\Debug\MiAI.pdb
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\obj\Debug\MiAI.csprojAssemblyReference.cache
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\obj\Debug\MiAI.Form1.resources
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\obj\Debug\MiAI.Properties.Resources.resources
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\obj\Debug\MiAI.csproj.GenerateResource.cache
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\obj\Debug\MiAI.csproj.CoreCompileInputs.cache
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\obj\Debug\MiAI.exe
+C:\Users\thangnc.SHBHO\source\repos\MiAI\MiAI\obj\Debug\MiAI.pdb
